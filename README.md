@@ -10,4 +10,5 @@
 ```
 
 Compress with lz4 to boot, image must be below ~13MB in size to flash
+
 Does not boot as an image in fastboot, must be flashed to recovery
